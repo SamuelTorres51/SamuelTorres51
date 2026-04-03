@@ -42,10 +42,6 @@
 
 </div>
 
-<div align="center">
-  <img height="250" src="https://i.pinimg.com/1200x/a7/83/19/a7831930e3268f700f63e727015751da.jpg"  />
-</div>
-
 ---
 
 <div align="center">
