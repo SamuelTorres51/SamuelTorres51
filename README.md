@@ -10,7 +10,7 @@
 <div align="center">
 
  
-**-Bacharelando em Sistemas de Informação - UFPI (5/8)**
+**-Bacharelando em Sistemas de Informação - UFPI (6/8)**
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=BBH+Sans+Bogle&weight=600&size=28&duration=6000&pause=1000&color=7ee787&center=true&multiline=true&width=435&lines=(4%2F8)+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=BBH+Sans+Bogle&weight=600&size=28&duration=6000&pause=1000&color=7ee787&center=true&multiline=true&width=435&lines=(6%2F8)+...)](https://git.io/typing-svg)
 
 </div>
 
